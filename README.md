@@ -1,4 +1,4 @@
-![Screenshot of application demo](welcometomyworld.png)
+![Screenshot of application demo](maxresdefault.jpg)
 
 <h1 align="center">
 Hello! My name is Anthony Bergen.
