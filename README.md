@@ -18,11 +18,10 @@ Hello! My name is Anthony Bergen.
 ## Technologies
 
 <ul>
-<li>React, HTML, CSS, Bootstrap, Material-UI</li>
-<li>Javascript, Python</li>
-<li>Django, Node, Express, JSON, jQuery, Auth0, API</li>
-<li>MongoDB, MySQL, SQLite, PostgreSQL</li>
-<li>Git, Bash, Heroku, AWS, Webpack</li>
+<li>Front-End: React, CSS, HTML, Bootstrap, Material-UI</li>
+<li>Back-End: JavaScript, TypeScript, Python, Django, Node, Express, JSON, jQuery, Auth0, API</li>
+<li>Database: MySQL, MongoDB, SQLite, PostgreSQL</li>
+<li>Other: Heroku, Git, Bash, Webpack, AWS, Electron</li>
 </ul>
 
 <hr>
