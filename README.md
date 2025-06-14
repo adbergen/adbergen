@@ -4,7 +4,7 @@
 <h1 align="center">
 Hello! My name is Anthony Bergen.
 </h1>
-<h3 align="center" style="margin-bottom:10px">I'm a Software Engineer proficient in front-end and back-end web development. I transitioned from sales after working across a diverse list of industries including cybersecurity, instrumentation engineering and automation, telecommunications, and logistics. I'm passionate in working as a team and can work independently. When I'm not developing, I enjoy modifying cars, bodybuilding, learning guitar, training my Australian Shepherd, and occasionally gaming.</h4>
+<h3 align="center" style="margin-bottom:10px">Creator of idle-observer • Vue & TypeScript enthusiast • Building tools for the modern application.</h4>
 <div align="center">
   <h4>
     </a>
