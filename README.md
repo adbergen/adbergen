@@ -2,7 +2,7 @@
 	title="welcome banner" width="1000" height="200" />
 
 <h1 align="center">
-Hello! My name is Anthony Bergen.
+My name is Anthony Bergen.
 </h1>
 <h3 align="center" style="margin-bottom:10px">Creator of idle-observer • Vue & TypeScript enthusiast • Building tools for the modern application.</h4>
 <div align="center">
