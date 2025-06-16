@@ -1,5 +1,5 @@
 <img align="center" src="welcome.webp" alt="welcome"
-	title="welcome banner" width="1000" height="300" />
+	title="welcome banner" width="1000" height="200" />
 
 <h1 align="center">
 Hello! My name is Anthony Bergen.
